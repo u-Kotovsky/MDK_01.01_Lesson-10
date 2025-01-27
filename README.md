@@ -1,6 +1,9 @@
 # MDK_01.01_Lesson-10
 This is a school home task that I has got to do.
 
+> [!TIP]
+> Оригинал на русском [здесь](https://github.com/u-Kotovsky/MDK_01.01_Lesson-10/blob/master/README_RU.md)
+
 > [!IMPORTANT]
 > I use Visual Studio `2022` and `.NET 9` so I don't know how it'll work on other versions.
 
@@ -13,7 +16,7 @@ Click [here](https://github.com/u-Kotovsky/MDK_01.01_Lesson-10/tree/master/MDK_0
 Create an EnglishTranslator class that inherits from Translator
 Implement all abstract methods
 Think about what the GetLanguage method should return
-The program should display “I am an English translator” on the screen
+The program should display "Я переводчик с английского" on the screen
 Main method should not be changed
 
 Click [here](https://github.com/u-Kotovsky/MDK_01.01_Lesson-10/tree/master/MDK_01.01_Lesson-10_Task2) to get to the solution of task 2
