@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDK_01.01_Lesson-10_Task2", "MDK_01.01_Lesson-10_Task2\MDK_01.01_Lesson-10_Task2.csproj", "{F88B80C3-40A9-4C32-BDFE-173065AA989E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDK_01.01_Lesson-10_Task1", "MDK_01.01_Lesson-10_Task1\MDK_01.01_Lesson-10_Task1.csproj", "{80F6EBC6-34BC-4F13-9E80-E2A4739CFF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88B80C3-40A9-4C32-BDFE-173065AA989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88B80C3-40A9-4C32-BDFE-173065AA989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88B80C3-40A9-4C32-BDFE-173065AA989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88B80C3-40A9-4C32-BDFE-173065AA989E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F6EBC6-34BC-4F13-9E80-E2A4739CFF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F6EBC6-34BC-4F13-9E80-E2A4739CFF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F6EBC6-34BC-4F13-9E80-E2A4739CFF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F6EBC6-34BC-4F13-9E80-E2A4739CFF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
