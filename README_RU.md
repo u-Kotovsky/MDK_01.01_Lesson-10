@@ -1,6 +1,9 @@
 # MDK_01.01_Lesson-10
 Это школьное домашнее задание которое мне нужно было выполнить.
 
+> [!TIP]
+> English translation [here](https://github.com/u-Kotovsky/MDK_01.01_Lesson-10/blob/master/README.md)
+
 > [!IMPORTANT]
 > Я использую Visual Studio `2022` и `.NET 9` так что я не уверен насколько правильно может работать на других программах.
 
